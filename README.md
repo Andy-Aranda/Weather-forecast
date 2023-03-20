@@ -4,7 +4,7 @@ This is a Python program that uses a weather API to send daily hourly weather fo
 
 
 <p align="center">
-<img src="https://i.imgur.com/1OMDChQ.png" width="500">
+<img src="https://i.imgur.com/1OMDChQ.png" width="400">
 </p>
 
 ## How it works 🤔
