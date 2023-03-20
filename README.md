@@ -1,5 +1,9 @@
 # Weather forecast 🌤️
 This is a Python program that uses a weather API to send daily hourly weather forecasts to your cellphone. The program is designed to send information for the city in which you are located.
+
+
+
+
 <img src = "https://i.imgur.com/1OMDChQ.png" data-cannonical-src = "https://i.imgur.com/1OMDChQ.png" height="400"/>
 
 ## How it works 🤔
