@@ -4,7 +4,7 @@ This is a Python program that uses a weather API to send daily hourly weather fo
 
 
 
-<img src = "https://i.imgur.com/1OMDChQ.png" data-cannonical-src = "https://i.imgur.com/1OMDChQ.png" height="400"/>
+<img src = "https://i.imgur.com/1OMDChQ.png" data-cannonical-src = "https://i.imgur.com/1OMDChQ.png" height="600" position="center"/>
 
 ## How it works 🤔
 The program uses the [Weather API](https://www.weatherapi.com/) to obtain hourly weather forecasts for the city in which you are located. The information is extracted from the API and then filtered to obtain only the information that is to be sent. Then, [Twilio](https://www.twilio.com/) is used to send the information to the user's cellphone.
